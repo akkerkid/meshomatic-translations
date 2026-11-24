@@ -1,0 +1,183 @@
+{
+  "_doc": "Terms that are never translated (i18n spec 2026-11-23 section 10; product names verbatim per Q87). check_catalogs.py rule 4: a term present in the English source must appear unchanged in every translation. scripts/i18n/draft.py injects this list into every prompt. Node names, pubkeys, user names, POI names, channel names and CLI verbs are never translated either; they are data, not catalog text.",
+  "terms": [
+    {
+      "term": "MeshCore",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "Companion",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "Repeater",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "Room Server",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "Sensor",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "advert",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "flood",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "direct",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "zero-hop",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "path hash",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "LoRa",
+      "kind": "meshcore",
+      "verbatim": true
+    },
+    {
+      "term": "dBm",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "SNR",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "RSSI",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "EIRP",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "SF",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "BW",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "CR",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "MHz",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "kHz",
+      "kind": "radio",
+      "verbatim": true
+    },
+    {
+      "term": "MeshOMatic",
+      "kind": "product",
+      "verbatim": true
+    },
+    {
+      "term": "MeshOMatic.net",
+      "kind": "product",
+      "verbatim": true
+    },
+    {
+      "term": "Conduit",
+      "kind": "product",
+      "verbatim": true
+    },
+    {
+      "term": "Virtual Companion",
+      "kind": "product",
+      "verbatim": true
+    },
+    {
+      "term": "Observer",
+      "kind": "product",
+      "verbatim": true
+    },
+    {
+      "term": "Wardriver",
+      "kind": "product",
+      "verbatim": true
+    },
+    {
+      "term": "Hosted Identity",
+      "kind": "product",
+      "verbatim": true
+    },
+    {
+      "term": "LetsMesh",
+      "kind": "external",
+      "verbatim": true
+    },
+    {
+      "term": "CoreScope",
+      "kind": "external",
+      "verbatim": true
+    },
+    {
+      "term": "MeshMapper",
+      "kind": "external",
+      "verbatim": true
+    },
+    {
+      "term": "map.meshcore.io",
+      "kind": "external",
+      "verbatim": true
+    },
+    {
+      "term": "Discord",
+      "kind": "external",
+      "verbatim": true
+    },
+    {
+      "term": "GitHub",
+      "kind": "external",
+      "verbatim": true
+    },
+    {
+      "term": "IATA",
+      "kind": "external",
+      "verbatim": true
+    },
+    {
+      "term": "AOI",
+      "kind": "acronym",
+      "verbatim": true,
+      "gloss": {
+        "fr": "zone d'intérêt"
+      }
+    }
+  ]
+}

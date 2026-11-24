@@ -1,0 +1,24 @@
+{
+  "language": {
+    "label": "Language",
+    "auto": "Automatic ({language})",
+    "hint": "Add ?lang=fr to any link to open it in another language."
+  },
+  "units": {
+    "label": "Units",
+    "auto": "Automatic (metric)",
+    "metric": "Metric (km, m)",
+    "imperial": "Imperial (mi, ft)",
+    "areaKm2": "{value} km2",
+    "areaSquareMiles": "{value} sq mi"
+  },
+  "timeZone": {
+    "label": "Time zone",
+    "auto": "This device's time zone ({timeZone})"
+  },
+  "machineBanner": {
+    "text": "This page is a machine translation. Help us improve it.",
+    "link": "How to help",
+    "close": "Close this notice"
+  }
+}

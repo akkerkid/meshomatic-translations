@@ -1,0 +1,66 @@
+{
+  "common.language.label": {
+    "description": "Label of the site language picker."
+  },
+  "common.language.auto": {
+    "description": "Picker option that follows the browser; {language} is the detected language's own name."
+  },
+  "common.language.hint": {
+    "description": "Help text under the language picker; keep ?lang= verbatim."
+  },
+  "common.units.label": {
+    "description": "Label of the distance units picker."
+  },
+  "common.units.auto": {
+    "description": "Units option that follows the site default (metric)."
+  },
+  "common.units.metric": {
+    "description": "Units option: kilometres and metres."
+  },
+  "common.units.imperial": {
+    "description": "Units option: miles and feet."
+  },
+  "common.units.areaKm2": {
+    "description": "An area in square kilometres; {value} is already a formatted number."
+  },
+  "common.units.areaSquareMiles": {
+    "description": "An area in square miles; {value} is already a formatted number."
+  },
+  "common.timeZone.label": {
+    "description": "Label of the time-zone picker."
+  },
+  "common.timeZone.auto": {
+    "description": "Time-zone option that follows the device; {timeZone} is an IANA name such as Europe/Paris."
+  },
+  "common.machineBanner.text": {
+    "description": "Banner on machine-translated pages (Q90)."
+  },
+  "common.machineBanner.link": {
+    "description": "Link in the machine-translation banner to the how-to-help page."
+  },
+  "outreach.title": {
+    "description": "Title of the one-time popup shown to visitors from a country whose language we are adding.",
+    "max_chars": 60
+  },
+  "outreach.body": {
+    "description": "Popup body: MeshOMatic wants to expand to the visitor's area and asks for help fine-tuning translations."
+  },
+  "outreach.helpGithub": {
+    "description": "Link to help with translations on GitHub."
+  },
+  "outreach.helpDiscord": {
+    "description": "Link to join the MeshOMatic Discord."
+  },
+  "outreach.switchTo": {
+    "description": "Button that switches the whole site to the visitor's language (only shown when the site supports it)."
+  },
+  "outreach.dismiss": {
+    "description": "Button that closes the popup for good."
+  },
+  "outreach.machineNote": {
+    "description": "Small note that the popup text is a machine translation."
+  },
+  "common.machineBanner.close": {
+    "description": "Accessible name of the X button that closes the machine-translation banner."
+  }
+}

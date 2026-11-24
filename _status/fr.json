@@ -1,0 +1,107 @@
+{
+  "common.language.label": {
+    "state": "machine",
+    "src_hash": "a4fe65264ef7",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.language.auto": {
+    "state": "machine",
+    "src_hash": "748578b80aab",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.language.hint": {
+    "state": "machine",
+    "src_hash": "b7f7d8e8799d",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.units.label": {
+    "state": "machine",
+    "src_hash": "9fb6669a77ea",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.units.auto": {
+    "state": "machine",
+    "src_hash": "ae91c50e2038",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.units.metric": {
+    "state": "machine",
+    "src_hash": "4cc3605727b5",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.units.imperial": {
+    "state": "machine",
+    "src_hash": "ca504d42bebe",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.units.areaKm2": {
+    "state": "machine",
+    "src_hash": "68385bdafb20",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.units.areaSquareMiles": {
+    "state": "machine",
+    "src_hash": "7ce1b616c944",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.timeZone.label": {
+    "state": "machine",
+    "src_hash": "b9fe1464783e",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.timeZone.auto": {
+    "state": "machine",
+    "src_hash": "a21cc7b69871",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.machineBanner.text": {
+    "state": "machine",
+    "src_hash": "586af53561f7",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.machineBanner.link": {
+    "state": "machine",
+    "src_hash": "a899a3d4d16b",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.title": {
+    "state": "machine",
+    "src_hash": "8f72182d36d6",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.body": {
+    "state": "machine",
+    "src_hash": "161b27b3c737",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.helpGithub": {
+    "state": "machine",
+    "src_hash": "10ec7aee5de9",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.helpDiscord": {
+    "state": "machine",
+    "src_hash": "72a14b2c3974",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.switchTo": {
+    "state": "machine",
+    "src_hash": "4768aee6d0da",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.dismiss": {
+    "state": "machine",
+    "src_hash": "49780701dc2d",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.machineNote": {
+    "state": "machine",
+    "src_hash": "21a1b7f074ee",
+    "by": "claude-draft-2026-11-24"
+  },
+  "common.machineBanner.close": {
+    "state": "machine",
+    "src_hash": "6a15935db730",
+    "by": "claude-draft-2026-11-24"
+  }
+}

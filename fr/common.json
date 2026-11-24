@@ -1,0 +1,24 @@
+{
+  "language": {
+    "label": "Langue",
+    "auto": "Automatique ({language})",
+    "hint": "Ajoutez ?lang=en à un lien pour l'ouvrir dans une autre langue."
+  },
+  "units": {
+    "label": "Unités",
+    "auto": "Automatique (métrique)",
+    "metric": "Métrique (km, m)",
+    "imperial": "Impérial (mi, ft)",
+    "areaKm2": "{value} km²",
+    "areaSquareMiles": "{value} mi²"
+  },
+  "timeZone": {
+    "label": "Fuseau horaire",
+    "auto": "Fuseau horaire de cet appareil ({timeZone})"
+  },
+  "machineBanner": {
+    "text": "Cette page est une traduction automatique. Aidez-nous à l'améliorer.",
+    "link": "Comment aider",
+    "close": "Fermer cet avis"
+  }
+}

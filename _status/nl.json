@@ -1,0 +1,37 @@
+{
+  "outreach.title": {
+    "state": "machine",
+    "src_hash": "8f72182d36d6",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.body": {
+    "state": "machine",
+    "src_hash": "161b27b3c737",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.helpGithub": {
+    "state": "machine",
+    "src_hash": "10ec7aee5de9",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.helpDiscord": {
+    "state": "machine",
+    "src_hash": "72a14b2c3974",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.switchTo": {
+    "state": "machine",
+    "src_hash": "4768aee6d0da",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.dismiss": {
+    "state": "machine",
+    "src_hash": "49780701dc2d",
+    "by": "claude-draft-2026-11-24"
+  },
+  "outreach.machineNote": {
+    "state": "machine",
+    "src_hash": "21a1b7f074ee",
+    "by": "claude-draft-2026-11-24"
+  }
+}
